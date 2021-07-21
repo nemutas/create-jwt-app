@@ -11,6 +11,13 @@ https://nemutas-express-jwt.web.app/
 **JWT取得画面**
 ![signin2](https://user-images.githubusercontent.com/46724121/126512606-82c3cefd-d147-4b1c-8fb4-2d0357674a36.png)
 
+# 技術スタック
+- React
+- Typescript
+- Recoil
+- Material UI
+- Firebase Authentication
+
 # 詳細
 Qiitaにまとめました。
 
